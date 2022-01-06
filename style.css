@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    height: 100%;
+}
+
+main {
+    background-image: url('imagens/background.svg');
+    width: 375px;
+    height: 812px;
+}
+
+.conteudo {
+    max-width: 250px;
+    
+}
