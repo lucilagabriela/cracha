@@ -70,12 +70,22 @@ h1 {
     margin-top: 10px;
 }
 
+a {
+    color: #e0e0e5;
+}
+
 .links {
     margin-top: 10px;
-    color: #e0e0e5;
     padding: 0;
     display: flex; /* deixa uma caixa ao ladro da outra no eixo x */
     gap: 8px; /* 0.5rem */
     justify-content: center; /* alinhamento central */
     /* s/ flex ou grid, não dá para usar gap e justify content */
+}
+
+.github {
+    display: flex;
+    gap: 12px; /* 0.75rem */
+    justify-content: center;
+    align-items: center; /* certifica o alinhamento por um eixo x central */
 }
