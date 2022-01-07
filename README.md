@@ -7,3 +7,4 @@ conhecimentos adquiridos:
 - consolidação dos conceitos de box model
 - propridade -webkit-font-smoothing: antialiased
 - variáveis em css
+- conhecimentos sobre diplay flex, gap e justify content
