@@ -16,4 +16,4 @@ conhecimentos adquiridos:
 - se depare com problemas e resolva-os/supere-os
 - use comunidades da forma certa {discord, youtube}
 - ensine e ajude outras pessoas
-- 
+- também estude sobre softskills
