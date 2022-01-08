@@ -8,3 +8,12 @@ conhecimentos adquiridos:
 - propridade -webkit-font-smoothing: antialiased
 - variáveis em css
 - conhecimentos sobre diplay flex, gap e justify content
+***
+- tenha foco
+- respeite seu tempo
+- pratique {conceito + prática}
+- quando se deparar com problemas, fique feliz
+- se depare com problemas e resolva-os/supere-os
+- use comunidades da forma certa {discord, youtube}
+- ensine e ajude outras pessoas
+- 
