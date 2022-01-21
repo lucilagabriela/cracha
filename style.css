@@ -16,9 +16,11 @@ body {
 }
 
 main {
-    background-image: url('imagens/background.svg');
-    width: 375px;
-    height: 812px;
+    background: url('imagens/background.svg') no-repeat center/cover;
+    /* cover cobre todo o espaço. bom para adaptação em dispositivo movel */
+    width: 100vw; /*preecher todo o comprimento do display*/
+    min-height: 900px;
+    height: 100vw; /*preencher a altura do display */
 }
 
 .conteudo {
