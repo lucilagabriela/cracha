@@ -17,4 +17,4 @@ conhecimentos adquiridos:
 - use comunidades da forma certa {discord, youtube}
 - ensine e ajude outras pessoas
 - também estude sobre softskills
-- ter boas práticas de escrita de código 
+- ter boas práticas de escrita de código
